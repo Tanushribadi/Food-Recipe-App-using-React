@@ -1,0 +1,175 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 90px;
+}
+h3 {
+  margin-left:600px;
+    margin-top:-120px;
+    font-size: 50px;
+    color:white;
+    text-shadow: 2px 2px 5px red;
+}
+
+.todo .button {
+  background-color: rgb(69, 69, 179);
+  width:100px;
+  height:40px;
+  color:azure;
+}
+.todo .text {
+  width:400px;
+  height:40px;
+}
+body{
+ background-color: black;
+}
+.list{
+  color:white;
+  text-align: center;
+  display: inline;
+}
+.list h1{
+  /*margin-left:-300px;
+  margin-top:80px;
+  position: relative;
+  top:50px;
+  left:-160px;
+}
+.list .remove{
+  position: absolute;
+  right:450px;
+  background-color:rgb(69, 69, 179);
+  color:white;
+}*/
+
+
+/*----------------SEARCH-------------------*/
+
+
+form{
+  margin:-57rem 8rem;
+  margin-left:170px;
+}
+
+
+form div{
+    position:relative;
+    width:100%;
+}
+form input{
+    border:none;
+    background:linear-gradient(35deg,#494949,#313131);
+    color:white;
+    font-size:1.4rem;
+    padding:0rem 1rem;
+    outline:none;
+    border-radius:5px;
+    width:90%;
+}
+
+
+
+/*-------------------RECIPE-------------------------*/
+
+
+/*.both{
+  margin-top:13rem;
+  margin-bottom:5rem;
+  display:flex;
+}
+
+.side .active{
+    background:linear-gradient(35deg,#494949,#313131);
+    color:white;
+}
+.both img{
+    position:relative;
+    top:50px;
+    width:300px;
+    height:300px;
+}
+.both h2{
+    position:absolute;
+    left:340px;
+    top:220px;
+    font-size:20px;
+   }
+
+li{
+    font-size:1.2rem;
+    line-height:2.5rem
+}
+ul{
+margin-top:2rem;
+}
+ .side{
+  margin-left:15rem;
+}
+.side button{
+  margin-right:2rem;
+  position:relative;
+  bottom:330px;
+  right:-150px;
+  padding:1rem 2rem;
+  color:#313131;
+  background:white;
+  border:2px solid black;
+  font-weight:600;
+}
+.dangerous h3{
+  font-size:18px;
+  position:relative;
+  bottom:300px;
+  right:-90px;
+}*/
+
+
+
+
+
+
+
+
